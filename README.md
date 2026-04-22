@@ -13,31 +13,10 @@ This project provides a simple Bash script to:
 * Starts/stops llama-server
 * Supports remote access via Tailscale
 
-## 🛠️ Requirements
-
-* Tailscale installed
-* llama.cpp built
-* GGUF model file
-
-## ⚙️ Usage
-
-```bash
-chmod +x tailscale-toggle.sh
-./tailscale-toggle.sh
-```
-
 ## 🌐 Access
-
-Local:
 
 ```
 https://ai.nomineelife.com/
-```
-
-Remote (via Tailscale):
-
-```
-http://<tailscale-ip>:8080
 ```
 
 ## 📌 Notes
