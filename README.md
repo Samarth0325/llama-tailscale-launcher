@@ -55,7 +55,7 @@ http://<tailscale-ip>:8080
 
 
 ### 🖥️ Llama Server Running
-![Llama Server](screenshot.png)
+![Llama Server](screenshot2.png)
 
 ### 🔗 Tailscale + Script Execution
 ![Script Output](Screenshot.png)
